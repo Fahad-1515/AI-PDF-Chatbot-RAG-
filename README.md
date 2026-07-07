@@ -192,7 +192,7 @@ This project is licensed under the MIT License.
 
 For questions or collaboration:
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Fahad-1515
 
 ---
 
